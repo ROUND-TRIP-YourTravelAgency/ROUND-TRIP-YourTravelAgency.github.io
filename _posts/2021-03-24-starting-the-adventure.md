@@ -3,7 +3,7 @@ layout: post
 read_time: false
 show_date: false 
 title: "HORARIOS"
-img: posts/20210324/starting_adventure.jpg
+img: posts/FOTOS/HORARIOS.jpg
 description: "APARTADO DONDE ESTARAN TODOS NUESTROS HORARIOS"
 ---
 # AQUI ENCONTRAREMOS TODOS NUESTROS HORARIOS 
