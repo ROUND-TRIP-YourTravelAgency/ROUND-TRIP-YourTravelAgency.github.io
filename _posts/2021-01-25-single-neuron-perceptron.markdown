@@ -4,7 +4,7 @@ read_time: false
 show_date: false
 title:  contactos 
 description: Este es nuestro apartado de contactos en dicha pagina podras encontrar donde contactarnos 
-img: posts/FOTOS/CONTACTOS1.jpg
+img: posts/FOTOS/CONTACTOS.jpg
 mathjax: no
 ---
 ### ESTE ES EL PARTADO DE CONTACTOS AQUI ENCONTRARAS COMO CONTACTARNOS 
