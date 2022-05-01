@@ -4,7 +4,7 @@ read_time: false
 show_date: false
 title:  PRECIOS 
 description: "Precios de todos nuestros servicios"
-img: posts/20210318/TicTacToeSml.jpg
+img: posts/FOTOS/PRECIOS.jpg
 toc: no # leave empty or erase for no TOC
 ---
  
