@@ -3,7 +3,7 @@ layout: post
 read_time: false
 show_date: false
 title: "PILOTOS Y COPILOTOS"
-img: posts/20210402/post7-header.webp
+img: posts/FOTOS/PLOTOS.jpg
 description: "AQUI ENCONTRAREMOS A RODOS NUESTROS PILOTOS Y COPILOTOS LABORANDO"
 ---
 
