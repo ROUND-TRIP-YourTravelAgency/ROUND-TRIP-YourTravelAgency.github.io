@@ -4,7 +4,7 @@ read_time: false
 show_date: false
 title:  PAQUETES
 description: PAQUETES DE VIAJE
-img: posts/20210228/MLLibrary.jpg 
+img: posts/FOTOS/PAQUETES.jpg
 ---
 
 # EN ESTE APARTADO ENCONTRARAS TODOS NUESTROS PAQUETES DE OPORTUNIDAD 
