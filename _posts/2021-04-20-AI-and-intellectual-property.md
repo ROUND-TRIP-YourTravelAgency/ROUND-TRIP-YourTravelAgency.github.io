@@ -3,7 +3,7 @@ layout: post
 read_time: false
 show_date: false
 title: "SERVICIOS"
-img: posts/20210420/post8-rembrandt.jpg
+img: posts/FOTOS/descargar.jpg
 description: "En este apartado encontraras todos nuestros servicios disponibles"
 ---
 # AQUI ENCONTRARAS TODS NUESTROS SERVICIOS
