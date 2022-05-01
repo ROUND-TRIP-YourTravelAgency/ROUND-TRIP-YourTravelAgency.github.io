@@ -4,8 +4,7 @@ read_time: false
 show_date: false
 title:  UBICACION 
 description: AQUI NOS ENCONTRARAS EN EL MAPA 
-img: posts/20210210/Game_of_Life.jpg
-tags: [coding, python]
+img: posts/FOTOS/UBICACION.png
 ---
 
 # Esta es la pestaña de Ubicaión aqui nos podras encontrados ubicados en el mapa
