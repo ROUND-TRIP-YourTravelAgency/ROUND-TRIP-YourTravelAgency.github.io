@@ -4,7 +4,7 @@ read_time: false
 show_date: false
 title:  AGENDAR UNA CITA
 description: PODRAS AGENDAR UNA CITA 
-img: posts/20210312/nnet_optimization.jpg
+img: posts/FOTOS/CITAS.png
 mathjax: no # leave empty or erase to prevent the mathjax javascript from loading
 toc: no # leave empty or erase for no TOC
 ---
